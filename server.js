@@ -44,7 +44,7 @@ app.use(requestMiddleware);
 app.use(
   cors({
     origin: process.env.NODE_ENV === 'production'
-      ? ['https://app.staging.tracevenue.com', 'https://restaurant.staging.tracevenue.com',"http://localhost:4200", "http://localhost:5173"]
+      ? ['https://app.staging.tracevenue.com', 'https://restaurant.staging.tracevenue.com',"http://localhost:4200", "http://localhost:5173", "http://app.amananurag.store"]
       : true,
     credentials: true,
     methods: ['GET', 'POST', 'PUT','PATCH', 'DELETE', 'OPTIONS'],

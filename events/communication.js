@@ -8,7 +8,7 @@ const initSocket = (server) => {
   const io = socketIO(server, {
     cors: {
       origin: process.env.NODE_ENV === 'production' 
-        ? ['https://app.staging.tracevenue.com', 'https://restaurant.staging.tracevenue.com']
+        ? ['https://app.staging.tracevenue.com', 'https://restaurant.staging.tracevenue.com',"http://app.amananurag.store"]
         : '*',
       methods: ['GET', 'POST'],
       credentials: true
