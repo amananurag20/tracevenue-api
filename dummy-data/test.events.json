@@ -1,0 +1,853 @@
+[{
+  "_id": {
+    "$oid": "67a9ee732fb40f5337c28914"
+  },
+  "eventName": "Wedding Reception",
+  "description": "A grand wedding reception with live music, dance and catering.",
+  "keywords": [
+    {
+      "word": "wedding",
+      "synonyms": [
+        "marriage",
+        "ceremony"
+      ],
+      "_id": {
+        "$oid": "67aafa6b32c4067d933c3d1f"
+      }
+    },
+    {
+      "word": "reception",
+      "synonyms": [
+        "party",
+        "gathering"
+      ],
+      "_id": {
+        "$oid": "67aafa6b32c4067d933c3d20"
+      }
+    }
+  ],
+  "updatedAt": {
+    "$date": "2025-03-28T10:19:30.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a9ee732fb40f5337c28915"
+  },
+  "eventName": "Corporate Conference",
+  "description": "A professional conference for networking and business discussions.",
+  "keywords": [
+    {
+      "word": "conference",
+      "synonyms": [
+        "meeting",
+        "summit",
+        "seminar"
+      ]
+    },
+    {
+      "word": "corporate",
+      "synonyms": [
+        "business",
+        "enterprise",
+        "company"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9ee732fb40f5337c28916"
+  },
+  "eventName": "Birthday Party",
+  "description": "A fun-filled birthday celebration with cake and entertainment.",
+  "keywords": [
+    {
+      "word": "birthday",
+      "synonyms": [
+        "bday",
+        "anniversary",
+        "celebration"
+      ]
+    },
+    {
+      "word": "party",
+      "synonyms": [
+        "gathering",
+        "event",
+        "festivity"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67b5670d6bb72c4592634426"
+  },
+  "eventName": "Music Concert",
+  "description": "A live music performance featuring top artists.",
+  "keywords": [
+    {
+      "word": "concert",
+      "synonyms": [
+        "gig",
+        "live show",
+        "performance"
+      ],
+      "_id": {
+        "$oid": "67b5670d6bb72c4592634427"
+      }
+    },
+    {
+      "word": "music",
+      "synonyms": [
+        "songs",
+        "band",
+        "festival"
+      ],
+      "_id": {
+        "$oid": "67b5670d6bb72c4592634428"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:07:25.087Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:07:25.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b5673e6bb72c459263442a"
+  },
+  "eventName": "Charity Run",
+  "description": "A marathon organized to support a noble cause.",
+  "keywords": [
+    {
+      "word": "marathon",
+      "synonyms": [
+        "run",
+        "race",
+        "fitness"
+      ],
+      "_id": {
+        "$oid": "67b5673e6bb72c459263442b"
+      }
+    },
+    {
+      "word": "charity",
+      "synonyms": [
+        "donation",
+        "fundraising",
+        "cause"
+      ],
+      "_id": {
+        "$oid": "67b5673e6bb72c459263442c"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:08:14.958Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:08:14.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b5674b6bb72c459263442e"
+  },
+  "eventName": "Food Festival",
+  "description": "A celebration of diverse cuisines and street food.",
+  "keywords": [
+    {
+      "word": "food",
+      "synonyms": [
+        "cuisine",
+        "dining",
+        "gastronomy"
+      ],
+      "_id": {
+        "$oid": "67b5674c6bb72c459263442f"
+      }
+    },
+    {
+      "word": "festival",
+      "synonyms": [
+        "fair",
+        "market",
+        "event"
+      ],
+      "_id": {
+        "$oid": "67b5674c6bb72c4592634430"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:08:28.005Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:08:28.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b567576bb72c4592634432"
+  },
+  "eventName": "Art Exhibition",
+  "description": "A showcase of creative artworks by emerging artists.",
+  "keywords": [
+    {
+      "word": "art",
+      "synonyms": [
+        "painting",
+        "sculpture",
+        "gallery"
+      ],
+      "_id": {
+        "$oid": "67b567576bb72c4592634433"
+      }
+    },
+    {
+      "word": "exhibition",
+      "synonyms": [
+        "display",
+        "showcase",
+        "event"
+      ],
+      "_id": {
+        "$oid": "67b567576bb72c4592634434"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:08:39.685Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:08:39.685Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b567616bb72c4592634436"
+  },
+  "eventName": "Movie Premiere",
+  "description": "An exclusive screening of a new blockbuster movie.",
+  "keywords": [
+    {
+      "word": "movie",
+      "synonyms": [
+        "film",
+        "cinema",
+        "blockbuster"
+      ],
+      "_id": {
+        "$oid": "67b567616bb72c4592634437"
+      }
+    },
+    {
+      "word": "premiere",
+      "synonyms": [
+        "screening",
+        "release",
+        "event"
+      ],
+      "_id": {
+        "$oid": "67b567616bb72c4592634438"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:08:49.201Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:08:49.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b567776bb72c459263443a"
+  },
+  "eventName": "New Year's Eve Party",
+  "description": "A grand celebration to welcome the new year.",
+  "keywords": [
+    {
+      "word": "new year",
+      "synonyms": [
+        "NYE",
+        "countdown",
+        "celebration"
+      ],
+      "_id": {
+        "$oid": "67b567776bb72c459263443b"
+      }
+    },
+    {
+      "word": "party",
+      "synonyms": [
+        "event",
+        "festivity",
+        "gathering"
+      ],
+      "_id": {
+        "$oid": "67b567776bb72c459263443c"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:09:11.628Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:09:11.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b568566bb72c459263443f"
+  },
+  "eventName": "Reception Party",
+  "description": "A post-wedding event with dinner, music, and celebrations for friends and family.",
+  "keywords": [
+    {
+      "word": "reception",
+      "synonyms": [
+        "party",
+        "celebration",
+        "wedding dinner"
+      ],
+      "_id": {
+        "$oid": "67b568566bb72c4592634440"
+      }
+    },
+    {
+      "word": "event",
+      "synonyms": [
+        "gathering",
+        "function",
+        "occasion"
+      ],
+      "_id": {
+        "$oid": "67b568566bb72c4592634441"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:12:54.386Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:12:54.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b568606bb72c4592634443"
+  },
+  "eventName": "Engagement Ceremony",
+  "description": "A formal event where the couple exchanges rings in front of family and friends.",
+  "keywords": [
+    {
+      "word": "engagement",
+      "synonyms": [
+        "ring ceremony",
+        "roka",
+        "sagai"
+      ],
+      "_id": {
+        "$oid": "67b568606bb72c4592634444"
+      }
+    },
+    {
+      "word": "ceremony",
+      "synonyms": [
+        "ritual",
+        "function",
+        "event"
+      ],
+      "_id": {
+        "$oid": "67b568606bb72c4592634445"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:13:04.676Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:13:04.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b5686f6bb72c4592634447"
+  },
+  "eventName": "Housewarming Ceremony (Griha Pravesh)",
+  "description": "A Hindu ritual performed before moving into a new house for good fortune.",
+  "keywords": [
+    {
+      "word": "housewarming",
+      "synonyms": [
+        "griha pravesh",
+        "new home",
+        "blessing"
+      ],
+      "_id": {
+        "$oid": "67b5686f6bb72c4592634448"
+      }
+    },
+    {
+      "word": "ceremony",
+      "synonyms": [
+        "ritual",
+        "event",
+        "function"
+      ],
+      "_id": {
+        "$oid": "67b5686f6bb72c4592634449"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:13:19.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:13:19.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b568846bb72c459263444b"
+  },
+  "eventName": "Naming Ceremony (Naamkaran)",
+  "description": "A Hindu ritual where a newborn baby is officially given a name.",
+  "keywords": [
+    {
+      "word": "naming ceremony",
+      "synonyms": [
+        "naamkaran",
+        "cradle ceremony",
+        "baby ritual"
+      ],
+      "_id": {
+        "$oid": "67b568846bb72c459263444c"
+      }
+    },
+    {
+      "word": "event",
+      "synonyms": [
+        "tradition",
+        "function",
+        "family event"
+      ],
+      "_id": {
+        "$oid": "67b568846bb72c459263444d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:13:40.937Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:13:40.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b5688f6bb72c459263444f"
+  },
+  "eventName": "Anniversary Celebration",
+  "description": "A family gathering to celebrate a couple's wedding anniversary with a party.",
+  "keywords": [
+    {
+      "word": "anniversary",
+      "synonyms": [
+        "wedding anniversary",
+        "milestone",
+        "celebration"
+      ],
+      "_id": {
+        "$oid": "67b5688f6bb72c4592634450"
+      }
+    },
+    {
+      "word": "party",
+      "synonyms": [
+        "gathering",
+        "event",
+        "function"
+      ],
+      "_id": {
+        "$oid": "67b5688f6bb72c4592634451"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:13:51.059Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:13:51.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b5689a6bb72c4592634453"
+  },
+  "eventName": "Birthday Party",
+  "description": "A fun-filled celebration with cake, gifts, and entertainment.",
+  "keywords": [
+    {
+      "word": "birthday",
+      "synonyms": [
+        "bday",
+        "birth anniversary",
+        "celebration"
+      ],
+      "_id": {
+        "$oid": "67b5689a6bb72c4592634454"
+      }
+    },
+    {
+      "word": "party",
+      "synonyms": [
+        "gathering",
+        "event",
+        "festivity"
+      ],
+      "_id": {
+        "$oid": "67b5689a6bb72c4592634455"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:14:02.488Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:14:02.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b568a36bb72c4592634457"
+  },
+  "eventName": "Retirement Party",
+  "description": "A farewell event to honor a person's retirement from work.",
+  "keywords": [
+    {
+      "word": "retirement",
+      "synonyms": [
+        "farewell",
+        "send-off",
+        "work exit"
+      ],
+      "_id": {
+        "$oid": "67b568a36bb72c4592634458"
+      }
+    },
+    {
+      "word": "party",
+      "synonyms": [
+        "celebration",
+        "event",
+        "gathering"
+      ],
+      "_id": {
+        "$oid": "67b568a36bb72c4592634459"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:14:11.877Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:14:11.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b568ad6bb72c459263445b"
+  },
+  "eventName": "Thread Ceremony (Upanayanam)",
+  "description": "A sacred Hindu ceremony marking a boy’s transition into learning and responsibility.",
+  "keywords": [
+    {
+      "word": "thread ceremony",
+      "synonyms": [
+        "upanayanam",
+        "sacred thread",
+        "initiation"
+      ],
+      "_id": {
+        "$oid": "67b568ad6bb72c459263445c"
+      }
+    },
+    {
+      "word": "ritual",
+      "synonyms": [
+        "tradition",
+        "ceremony",
+        "event"
+      ],
+      "_id": {
+        "$oid": "67b568ad6bb72c459263445d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:14:21.276Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:14:21.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b568b66bb72c459263445f"
+  },
+  "eventName": "Farewell Party",
+  "description": "An event organized to bid goodbye to a person leaving a place or group.",
+  "keywords": [
+    {
+      "word": "farewell",
+      "synonyms": [
+        "goodbye",
+        "send-off",
+        "departure"
+      ],
+      "_id": {
+        "$oid": "67b568b66bb72c4592634460"
+      }
+    },
+    {
+      "word": "party",
+      "synonyms": [
+        "event",
+        "gathering",
+        "celebration"
+      ],
+      "_id": {
+        "$oid": "67b568b66bb72c4592634461"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:14:30.542Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:14:30.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b568c26bb72c4592634463"
+  },
+  "eventName": "Graduation Party",
+  "description": "A celebration marking the completion of a student's education.",
+  "keywords": [
+    {
+      "word": "graduation",
+      "synonyms": [
+        "convocation",
+        "degree",
+        "achievement"
+      ],
+      "_id": {
+        "$oid": "67b568c26bb72c4592634464"
+      }
+    },
+    {
+      "word": "party",
+      "synonyms": [
+        "event",
+        "celebration",
+        "function"
+      ],
+      "_id": {
+        "$oid": "67b568c26bb72c4592634465"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:14:42.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:14:42.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b568cb6bb72c4592634467"
+  },
+  "eventName": "Family Reunion",
+  "description": "A gathering of extended family members to reconnect and celebrate together.",
+  "keywords": [
+    {
+      "word": "family reunion",
+      "synonyms": [
+        "get-together",
+        "meetup",
+        "gathering"
+      ],
+      "_id": {
+        "$oid": "67b568cb6bb72c4592634468"
+      }
+    },
+    {
+      "word": "event",
+      "synonyms": [
+        "celebration",
+        "function",
+        "occasion"
+      ],
+      "_id": {
+        "$oid": "67b568cb6bb72c4592634469"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:14:51.601Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:14:51.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b568db6bb72c459263446c"
+  },
+  "eventName": "Silver Jubilee Anniversary",
+  "description": "A grand celebration of 25 years of marriage or an organization.",
+  "keywords": [
+    {
+      "word": "silver jubilee",
+      "synonyms": [
+        "25 years",
+        "anniversary",
+        "milestone"
+      ],
+      "_id": {
+        "$oid": "67b568db6bb72c459263446d"
+      }
+    },
+    {
+      "word": "celebration",
+      "synonyms": [
+        "event",
+        "function",
+        "gathering"
+      ],
+      "_id": {
+        "$oid": "67b568db6bb72c459263446e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-19T05:15:07.276Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:15:07.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bc52ec52a8a1727152b9cf"
+  },
+  "eventName": "Kitty Party",
+  "description": "Looking for a perfect venue to host your Kitty Party?",
+  "keywords": [
+    {
+      "word": "kitty party",
+      "synonyms": [
+        "party",
+        "gathering"
+      ],
+      "_id": {
+        "$oid": "67bc52ec52a8a1727152b9d0"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-24T11:07:24.068Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T11:07:24.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bc5e973bc3df51e0c50a41"
+  },
+  "eventName": "Retirement party pack",
+  "description": "",
+  "keywords": [
+    {
+      "word": "Retirement party pack",
+      "synonyms": [
+        ""
+      ],
+      "_id": {
+        "$oid": "67bc5e973bc3df51e0c50a42"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-24T11:57:11.505Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T11:57:11.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e3e6c70e833c733bdbbd7c"
+  },
+  "eventName": "Baby shower",
+  "description": "A baby shower is a joyful celebration where family and friends gather to honor expectant parents, give gifts, and share blessings for the upcoming baby.",
+  "keywords": [
+    {
+      "word": "Baby",
+      "synonyms": [
+        "Newborn",
+        "Little One"
+      ],
+      "_id": {
+        "$oid": "67e3e6c70e833c733bdbbd7d"
+      }
+    },
+    {
+      "word": "shower",
+      "synonyms": [
+        "Celebration",
+        "Blessing"
+      ],
+      "_id": {
+        "$oid": "67e3e6c70e833c733bdbbd7e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-26T11:36:39.805Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T10:19:41.286Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,961 @@
+[{
+  "_id": {
+    "$oid": "66ac632d59fa5fa3e7a6dd1f"
+  },
+  "name": "Chicken Fried Rice - Spl.",
+  "description": "Enjoy our Chicken Fried Rice, a savory blend of tender chicken, crisp vegetables, and fragrant jasmine rice stir-fried to perfection. Each bite is a harmonious mix of flavors and textures, finished with a hint of soy sauce and fresh herbs. Ideal for a satisfying and flavorful meal.",
+  "basePrice": 100,
+  "foodType": "Non-Veg",
+  "quantityAddOn": [
+    {
+      "label": "Half Plate",
+      "price": 100
+    },
+    {
+      "label": "Full Plate",
+      "price": 200
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66ab678cb86799310b558ed5",
+    "name": "Rice Meals"
+  },
+  "miscellaneous": [
+    {
+      "label": "Normal"
+    },
+    {
+      "label": "Spicy"
+    },
+    {
+      "label": "Sprinkled w/ Chilli Flakes"
+    }
+  ],
+  "isResFav": false,
+  "tags": [
+    {
+      "label": ""
+    }
+  ],
+  "foodItemsAddOn_id": [
+    {
+      "$oid": "66ac632d59fa5fa3e7a6dd21"
+    },
+    {
+      "$oid": "66ac632d59fa5fa3e7a6dd26"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "66ac63de59fa5fa3e7a6dd82"
+  },
+  "name": "Aalu Prantha",
+  "description": "Fresh potato stuffing, green chilli and chilli flakes, served with various servings like butter and mixed pickles.",
+  "basePrice": 30,
+  "foodType": "Veg",
+  "quantityAddOn": [
+    {
+      "label": "Paratha with Curd",
+      "price": 30
+    },
+    {
+      "label": "Paratha without Curd",
+      "price": 20
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66ab75fc0b4d7b83d7cd046d",
+    "name": "Delicious Prantha"
+  },
+  "miscellaneous": [
+    {
+      "label": "Normal"
+    },
+    {
+      "label": "Spicy"
+    }
+  ],
+  "isResFav": false,
+  "tags": [],
+  "foodItemsAddOn_id": [
+    {
+      "$oid": "66ac63de59fa5fa3e7a6dd84"
+    },
+    {
+      "$oid": "66ac63de59fa5fa3e7a6dd87"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "66ac645d59fa5fa3e7a6ddc3"
+  },
+  "name": "Chicken Hakka Noodles",
+  "description": "Chicken hakka noodles garnished with marinated boneless chicken slices, served in a container with plastic cutlery so no hassle to eat on the go.",
+  "basePrice": 150,
+  "foodType": "Non-Veg",
+  "quantityAddOn": [
+    {
+      "label": "Half Plate",
+      "price": 150
+    },
+    {
+      "label": "Full Plate",
+      "price": 250
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66ab75400b4d7b83d7cd0104",
+    "name": "Noodles"
+  },
+  "miscellaneous": [
+    {
+      "label": "Normal"
+    },
+    {
+      "label": "Spicy"
+    }
+  ],
+  "isResFav": false,
+  "tags": [],
+  "foodItemsAddOn_id": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66ac655d59fa5fa3e7a6de63"
+  },
+  "name": "Oreo Shake",
+  "description": "Fresh Oreo shake served with eco-friendly straws, added coffee beans.",
+  "basePrice": 50,
+  "foodType": "Veg",
+  "quantityAddOn": [
+    {
+      "label": "Small",
+      "price": 50
+    },
+    {
+      "label": "Large",
+      "price": 100
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66ac649559fa5fa3e7a6ddf2",
+    "name": "Milkshakes"
+  },
+  "miscellaneous": [
+    {
+      "label": "Extra Oreo Crumbs"
+    }
+  ],
+  "isResFav": false,
+  "tags": [],
+  "foodItemsAddOn_id": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66ac660d59fa5fa3e7a6e036"
+  },
+  "name": "Paneer Fried Rice",
+  "description": "Fresh paneer fried rice, very similar to our restaurant's \"famous in town\" chicken fried rice, but without chicken obviously.",
+  "basePrice": 50,
+  "foodType": "Veg",
+  "quantityAddOn": [
+    {
+      "label": "Half Plate",
+      "price": 50
+    },
+    {
+      "label": "Full Plate",
+      "price": 100
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66ab678cb86799310b558ed5",
+    "name": "Rice Meals"
+  },
+  "miscellaneous": [
+    {
+      "label": "Extra Paneer"
+    }
+  ],
+  "isResFav": false,
+  "tags": [],
+  "foodItemsAddOn_id": [
+    {
+      "$oid": "66ac660d59fa5fa3e7a6e038"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "66ac694d59fa5fa3e7a6e280"
+  },
+  "name": "Maharaja Spl. Thali (5 Items + 3 Chapati + Fried Rice)",
+  "description": "The most famous Maharaja Special Thali that contains 5 vegetables that change on a daily basis, various quantities of normal chapati (tortilla) and option to choose between fresh boiled/normal rice or fried rice garnished with veges as toppings. Our Maharaja thali comes in 8 different sizes. Plenty to choose from!",
+  "basePrice": 180,
+  "foodType": "Veg",
+  "quantityAddOn": [
+    {
+      "label": "5 Veges + 3 Chapati + Fried Rice",
+      "price": 180
+    },
+    {
+      "label": "5 Veges + 3 Chapati",
+      "price": 150
+    },
+    {
+      "label": "5 Veges + 2 Chapati + Normal Rice",
+      "price": 120
+    },
+    {
+      "label": "5 Veges + Fried Rice (No Chapati)",
+      "price": 100
+    },
+    {
+      "label": "5 Veges + 3 Chapati (No Rice)",
+      "price": 80
+    },
+    {
+      "label": "5 Veges + Normal Rice (No Chapati)",
+      "price": 70
+    },
+    {
+      "label": "2 Veges + 2 Chapati + Fried Rice",
+      "price": 50
+    },
+    {
+      "label": "2 Veges + 2 Chapati + Normal Rice",
+      "price": 40
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66ac662259fa5fa3e7a6e054",
+    "name": "Mega Thali"
+  },
+  "miscellaneous": [
+    {
+      "label": "Less Spicy"
+    },
+    {
+      "label": "Gluten Free"
+    },
+    {
+      "label": "Spicy"
+    },
+    {
+      "label": "Extra Spicy"
+    }
+  ],
+  "isResFav": false,
+  "tags": [],
+  "foodItemsAddOn_id": [
+    {
+      "$oid": "66ac694d59fa5fa3e7a6e282"
+    },
+    {
+      "$oid": "66ac694d59fa5fa3e7a6e285"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "66ac6cd6bb4cf213fd44745a"
+  },
+  "name": "Spl. Maggi",
+  "description": "Special fried Maggi with green chilli slices and extra masala.",
+  "basePrice": 50,
+  "foodType": "Veg",
+  "quantityAddOn": [
+    {
+      "label": "1 Serving",
+      "price": 50
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66ab75400b4d7b83d7cd0104",
+    "name": "Noodles"
+  },
+  "miscellaneous": [
+    {
+      "label": "Oregano Sprinkling"
+    },
+    {
+      "label": "Chilli Flakes"
+    }
+  ],
+  "isResFav": false,
+  "tags": [],
+  "foodItemsAddOn_id": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66aca9fc12f1c1bfbb948f21"
+  },
+  "name": "Mix Prantha",
+  "description": "A blend of paneer, potato, cauliflower stuffings paired with spices and chilli flakes. The thick and delicious prantha.",
+  "basePrice": 40,
+  "foodType": "Veg",
+  "quantityAddOn": [
+    {
+      "label": "1 Prantha",
+      "price": 40
+    },
+    {
+      "label": "2 Prantha",
+      "price": 70
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66ab75fc0b4d7b83d7cd046d",
+    "name": "Delicious Prantha"
+  },
+  "miscellaneous": [
+    {
+      "label": "Extra Spicy"
+    }
+  ],
+  "isResFav": false,
+  "tags": [],
+  "foodItemsAddOn_id": [
+    {
+      "$oid": "66aca9fc12f1c1bfbb948f23"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "66acab8112f1c1bfbb948fdf"
+  },
+  "name": "Veg. Momos",
+  "description": "Delicious veg. momos stuffed with fresh vegetables and noodles.",
+  "basePrice": 40,
+  "foodType": "Veg",
+  "quantityAddOn": [
+    {
+      "label": "8 Pcs.",
+      "price": 40
+    },
+    {
+      "label": "12 Pcs.",
+      "price": 80
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66acaa4d12f1c1bfbb948fd9",
+    "name": "Chinese Food"
+  },
+  "miscellaneous": [
+    {
+      "label": "Normal Momos"
+    },
+    {
+      "label": "Extra Spicy Momos"
+    }
+  ],
+  "isResFav": false,
+  "tags": [],
+  "foodItemsAddOn_id": [
+    {
+      "$oid": "66acab8112f1c1bfbb948fe1"
+    },
+    {
+      "$oid": "66acab8112f1c1bfbb948fe4"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "66acadfa12f1c1bfbb9490a2"
+  },
+  "name": "Chicken Malai Tikka Roll",
+  "description": "Chicken Malai Tikka Roll with freshly baked tortilla wrap, spicy herbs, malai, a delicious blend of barbeque sauces and minty sauces jam-packed with chunky boneless chicken pieces.",
+  "basePrice": 100,
+  "foodType": "Non-Veg",
+  "quantityAddOn": [
+    {
+      "label": "Premium",
+      "price": 100
+    },
+    {
+      "label": "Loaded",
+      "price": 130
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66acabab12f1c1bfbb94903f",
+    "name": "Rolls"
+  },
+  "miscellaneous": [
+    {
+      "label": ""
+    }
+  ],
+  "isResFav": false,
+  "tags": [
+    {
+      "label": "CMTR"
+    }
+  ],
+  "foodItemsAddOn_id": [
+    {
+      "$oid": "66acadfa12f1c1bfbb9490a4"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "66acb12012f1c1bfbb9493d4"
+  },
+  "name": "Non Veg. Thali",
+  "description": "Non veg. delicious combo thali, specialty of our restaurant. The combo comes with two options to choose from.",
+  "basePrice": 100,
+  "foodType": "Non-Veg",
+  "quantityAddOn": [
+    {
+      "label": "Chicken Gravy + 2 Pcs. Chicken Drumsticks + Fried Rice",
+      "price": 100
+    },
+    {
+      "label": "Chicken Gravy + 2 Pcs. Chicken Drumsticks + 2 Pcs. Chilli Chicken + Fried Rice",
+      "price": 150
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66ac662259fa5fa3e7a6e054",
+    "name": "Mega Thali"
+  },
+  "miscellaneous": [
+    {
+      "label": "Normal Serving"
+    },
+    {
+      "label": "Spicy Serving"
+    }
+  ],
+  "isResFav": false,
+  "tags": [],
+  "foodItemsAddOn_id": [
+    {
+      "$oid": "66acb12012f1c1bfbb9493d6"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "66acb21512f1c1bfbb94950f"
+  },
+  "name": "Mango Shake",
+  "description": "Fresh mangoes, Rooh Afza sharbat and dry fruits blended with clean ice, a refreshing beverage to feast upon.",
+  "basePrice": 30,
+  "foodType": "Veg",
+  "quantityAddOn": [
+    {
+      "label": "Small",
+      "price": 30
+    },
+    {
+      "label": "Medium",
+      "price": 60
+    },
+    {
+      "label": "Large",
+      "price": 90
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66ac649559fa5fa3e7a6ddf2",
+    "name": "Milkshakes"
+  },
+  "miscellaneous": [
+    {
+      "label": "Without Ice"
+    },
+    {
+      "label": "With Ice"
+    }
+  ],
+  "isResFav": false,
+  "tags": [],
+  "foodItemsAddOn_id": [
+    {
+      "$oid": "66acb21512f1c1bfbb949511"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "66acb28e12f1c1bfbb9495c5"
+  },
+  "name": "Bread Omlete",
+  "description": "Made with large-size sandwich bread and 2 whole eggs, sliced in 4 servings and seasoned with red chilli flakes, oregano seasoning and two green chillis.",
+  "basePrice": 50,
+  "foodType": "Egg",
+  "quantityAddOn": [
+    {
+      "label": "4 Slices",
+      "price": 50
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66acb22712f1c1bfbb949545",
+    "name": "Light Breakfast"
+  },
+  "miscellaneous": [
+    {
+      "label": "No Green Chilli"
+    }
+  ],
+  "isResFav": false,
+  "tags": [],
+  "foodItemsAddOn_id": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66acb36612f1c1bfbb9496a1"
+  },
+  "name": "Egg Maggi",
+  "description": "Fried Maggi noodles seasons with fresh cut veges, oregano, spices and two fried whole eggs, served in an open container with plastic cutlery, best for take-aways and pickup!",
+  "basePrice": 35,
+  "foodType": "Egg",
+  "quantityAddOn": [
+    {
+      "label": "1 Plate",
+      "price": 35
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66acb22712f1c1bfbb949545",
+    "name": "Light Breakfast"
+  },
+  "miscellaneous": [
+    {
+      "label": "No Spices"
+    }
+  ],
+  "isResFav": false,
+  "tags": [],
+  "foodItemsAddOn_id": [
+    {
+      "$oid": "66acb36612f1c1bfbb9496a3"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "66adbf35d3b9c30670e26bff"
+  },
+  "name": "Veg. Spring Roll",
+  "description": "Crunchy spring rolls stuffed with fresh chopped vegetables and spicy noodles, served with a variety of sauces and toppings.",
+  "basePrice": 20,
+  "foodType": "Veg",
+  "quantityAddOn": [
+    {
+      "label": "5 Pcs.",
+      "price": 20
+    },
+    {
+      "label": "10 Pcs.",
+      "price": 30
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66acabab12f1c1bfbb94903f",
+    "name": "Rolls"
+  },
+  "miscellaneous": [
+    {
+      "label": ""
+    }
+  ],
+  "isResFav": false,
+  "tags": [
+    {
+      "label": ""
+    }
+  ],
+  "foodItemsAddOn_id": [
+    {
+      "$oid": "66adbf35d3b9c30670e26c01"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "66adfa16fad7740d24c41ac2"
+  },
+  "name": "Chicken Pepperoni Pizza",
+  "description": "Oven-fresh pizza with delicious marinated boneless chicken slices, chicken salami, jalapeno slices, olives, onions, tomatoes, and our restaurant's world-famous salsa sauces. Comes with a variety of crust options to choose from. Always delivered in just 30 minutes or else, it's absolutely on us. This pizza comes with a normal bread base if you don't choose one from the add-ons.",
+  "basePrice": 100,
+  "foodType": "Non-Veg",
+  "quantityAddOn": [
+    {
+      "label": "Small",
+      "price": 100
+    },
+    {
+      "label": "Medium",
+      "price": 200
+    },
+    {
+      "label": "Regular",
+      "price": 400
+    },
+    {
+      "label": "Feast",
+      "price": 550
+    },
+    {
+      "label": "Monster",
+      "price": 850
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66adf7eefad7740d24c419f8",
+    "name": "Oven Fresh Pizzas"
+  },
+  "miscellaneous": [
+    {
+      "label": "No Jalapeno"
+    },
+    {
+      "label": "No Salsa Sauce"
+    },
+    {
+      "label": "Extra Spicy"
+    },
+    {
+      "label": "More Chicken Slices"
+    },
+    {
+      "label": "Extra Sauces"
+    }
+  ],
+  "isResFav": false,
+  "tags": [
+    {
+      "label": ""
+    }
+  ],
+  "foodItemsAddOn_id": [
+    {
+      "$oid": "66adfa16fad7740d24c41ac4"
+    },
+    {
+      "$oid": "66adffd1fad7740d24c424e0"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "66b09afb9927200010b59b0c"
+  },
+  "name": "Rajma Rice",
+  "description": "Delicious Kinnauri Rajma served with brown rice from the mountains. Served with freshly cut salad and freshly brewed pickles.",
+  "basePrice": 30,
+  "foodType": "Veg",
+  "quantityAddOn": [
+    {
+      "label": "1 Plate",
+      "price": 30
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66ab678cb86799310b558ed5",
+    "name": "Rice Meals"
+  },
+  "miscellaneous": [
+    {
+      "label": ""
+    }
+  ],
+  "isResFav": false,
+  "tags": [
+    {
+      "label": ""
+    }
+  ],
+  "foodItemsAddOn_id": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66b09bb09927200010b59d73"
+  },
+  "name": "Scrambled Eggs",
+  "description": "Scrambled eggs (Egg Bhurji) prepared with 2 eggs in one serving, seasoned with fresh spices, black pepper and 1 fresh green chilli to munch on. A perfect snack or lunch option on the go.",
+  "basePrice": 20,
+  "foodType": "Egg",
+  "quantityAddOn": [
+    {
+      "label": "1 Plate",
+      "price": 20
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66ab678cb86799310b558ed5",
+    "name": "Rice Meals"
+  },
+  "miscellaneous": [
+    {
+      "label": ""
+    }
+  ],
+  "isResFav": false,
+  "tags": [
+    {
+      "label": ""
+    }
+  ],
+  "foodItemsAddOn_id": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66b09d049927200010b59e7c"
+  },
+  "name": "Indi Paneer Pan Pizza",
+  "description": "Oven fresh indi paneer pizza seasons with jalapeno, olives, our restaurant's very own special salsa sauce, paneer, onion toppings and mushroom toppings, added flavors with capsicum. Comes in two handy servings.",
+  "basePrice": 100,
+  "foodType": "Veg",
+  "quantityAddOn": [
+    {
+      "label": "Regular",
+      "price": 100
+    },
+    {
+      "label": "Medium",
+      "price": 150
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66adf7eefad7740d24c419f8",
+    "name": "Oven Fresh Pizzas"
+  },
+  "miscellaneous": [
+    {
+      "label": "Make it extra crispy"
+    },
+    {
+      "label": "Remove edges"
+    }
+  ],
+  "isResFav": false,
+  "tags": [
+    {
+      "label": "IPPZ"
+    }
+  ],
+  "foodItemsAddOn_id": [
+    {
+      "$oid": "66b09d049927200010b59e7e"
+    },
+    {
+      "$oid": "66b09d059927200010b59e85"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "66b09f0a9927200010b5a06e"
+  },
+  "name": "Chicken Curry + 4 Chapati",
+  "description": "Spicy chicken curry with boneless chicken chunks and spices, served with 4 chapatis (tortillas) with salad, papad and saunf to end the delicious feast.",
+  "basePrice": 130,
+  "foodType": "Non-Veg",
+  "quantityAddOn": [
+    {
+      "label": "1 Plate w/ 4 Chapati",
+      "price": 130
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66ac662259fa5fa3e7a6e054",
+    "name": "Mega Thali"
+  },
+  "miscellaneous": [
+    {
+      "label": "Extra Spicy"
+    }
+  ],
+  "isResFav": false,
+  "tags": [],
+  "foodItemsAddOn_id": [
+    {
+      "$oid": "66b09f0a9927200010b5a070"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "66d2c17314da61d7d34f8691"
+  },
+  "name": "Paneer Prantha",
+  "description": "Savor our Paneer Paratha, a golden, crispy flatbread stuffed with spiced cottage cheese. Served with yogurt, pickle, and chutney for a delightful North Indian experience. Perfect for any meal!",
+  "basePrice": 20,
+  "foodType": "Veg",
+  "quantityAddOn": [
+    {
+      "label": "1 Prantha",
+      "price": 20
+    },
+    {
+      "label": "2 Prantha",
+      "price": 40
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66ab75fc0b4d7b83d7cd046d",
+    "name": "Delicious Prantha"
+  },
+  "miscellaneous": [
+    {
+      "label": "Make it extra spicy!"
+    }
+  ],
+  "isResFav": false,
+  "tags": [
+    {
+      "label": "PPT"
+    }
+  ],
+  "foodItemsAddOn_id": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66d2c3b014da61d7d34f8a8e"
+  },
+  "name": "Masala Tea",
+  "description": "Warm up with our Masala Tea, a fragrant blend of black tea infused with a bold mix of aromatic spices including cardamom, cinnamon, and cloves. Each cup offers a rich, spiced flavor and comforting warmth, perfect for any time of day.",
+  "basePrice": 15,
+  "foodType": "Veg",
+  "quantityAddOn": [
+    {
+      "label": "1 Cup (w/ sugar)",
+      "price": 15
+    },
+    {
+      "label": "1 Cup (sugar-free)",
+      "price": 20
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66d2be4a14da61d7d34f8596",
+    "name": "Tea & Coffee"
+  },
+  "miscellaneous": [
+    {
+      "label": "No artificial sweetner."
+    }
+  ],
+  "isResFav": false,
+  "tags": [
+    {
+      "label": "MT"
+    }
+  ],
+  "foodItemsAddOn_id": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66d93c7d34745e4e1edd27c5"
+  },
+  "name": "Pepsi",
+  "description": "A classic choice for a refreshing burst of flavor, Pepsi offers a bold, crisp taste with just the right amount of sweetness. Perfectly carbonated to complement your meal, it’s the go-to soft drink for those who enjoy a satisfying, effervescent experience. Served chilled for maximum refreshment.",
+  "basePrice": 20,
+  "foodType": "Veg",
+  "quantityAddOn": [
+    {
+      "label": "200 ml.",
+      "price": 20
+    },
+    {
+      "label": "1 Ltr.",
+      "price": 60
+    }
+  ],
+  "restaurant_id": {
+    "$oid": "6698ba28feb30023587ed6b7"
+  },
+  "category": {
+    "_id": "66d2be1014da61d7d34f8590",
+    "name": "Soft Drinks"
+  },
+  "miscellaneous": [
+    {
+      "label": ""
+    }
+  ],
+  "isResFav": false,
+  "tags": [
+    {
+      "label": ""
+    }
+  ],
+  "foodItemsAddOn_id": [],
+  "__v": 0
+}]

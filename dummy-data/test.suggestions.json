@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "67e1224997265d781978c347"
+  },
+  "keyword": "birthday party with food indian continental for 70 people",
+  "eventType": {
+    "$oid": "67a9ee732fb40f5337c28916"
+  },
+  "cuisines": [
+    {
+      "$oid": "67ac7d222ee4b070bd485694"
+    },
+    {
+      "$oid": "67ad9f22af8c34b3272d8cb2"
+    }
+  ],
+  "peopleCount": {
+    "$oid": "6458c71d3e4a9a1234567003"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e1224997265d781978c34a"
+  },
+  "keyword": "wedding reception with food indian and italian for 450 people",
+  "eventType": {
+    "$oid": "67a9ee732fb40f5337c28914"
+  },
+  "cuisines": [
+    {
+      "$oid": "67ac7d222ee4b070bd485694"
+    },
+    {
+      "$oid": "67ac7d292ee4b070bd485696"
+    }
+  ],
+  "peopleCount": {
+    "$oid": "6458c71d3e4a9a1234567005"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e1224997265d781978c34b"
+  },
+  "keyword": "birthday for 40 people italian and chinese",
+  "eventType": {
+    "$oid": "67a9ee732fb40f5337c28916"
+  },
+  "cuisines": [
+    {
+      "$oid": "67ac7d292ee4b070bd485696"
+    },
+    {
+      "$oid": "67aeda63d3af1523c01ef462"
+    }
+  ],
+  "peopleCount": {
+    "$oid": "6458c71d3e4a9a1234567002"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e1224997265d781978c349"
+  },
+  "keyword": "corporate event with indian, continental and japanese food for 100-300 people",
+  "eventType": {
+    "$oid": "67a9ee732fb40f5337c28915"
+  },
+  "cuisines": [
+    {
+      "$oid": "67ac7d222ee4b070bd485694"
+    },
+    {
+      "$oid": "67ad9f22af8c34b3272d8cb2"
+    },
+    {
+      "$oid": "67dba51f024b2035f1d89005"
+    }
+  ],
+  "peopleCount": {
+    "$oid": "6458c71d3e4a9a1234567004"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e1224997265d781978c348"
+  },
+  "keyword": "anniversary celebration for 200 people with indian food",
+  "eventType": {
+    "$oid": "67a9ee732fb40f5337c28914"
+  },
+  "cuisines": [
+    {
+      "$oid": "67ac7d222ee4b070bd485694"
+    }
+  ],
+  "peopleCount": {
+    "$oid": "6458c71d3e4a9a1234567004"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e12a62026641bbcf85afcd"
+  },
+  "keyword": "birthday party indian continental 50-100",
+  "cuisines": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-24T09:48:18.601Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T09:48:18.601Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e12a62026641bbcf85afcf"
+  },
+  "keyword": "corporate event indian continental japanese 100-300",
+  "cuisines": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-24T09:48:18.604Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T09:48:18.604Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e12a62026641bbcf85afce"
+  },
+  "keyword": "anniversary celebration indian 100-300",
+  "cuisines": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-24T09:48:18.604Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T09:48:18.604Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e12a62026641bbcf85afd0"
+  },
+  "keyword": "wedding reception indian italian 350",
+  "cuisines": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-24T09:48:18.604Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T09:48:18.604Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e12a62026641bbcf85afd1"
+  },
+  "keyword": "birthday for 40 people italian and chinese",
+  "cuisines": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-24T09:48:18.604Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T09:48:18.604Z"
+  }
+}]

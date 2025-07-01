@@ -1,0 +1,10 @@
+const express = require("express");
+const router = express.Router();
+const reviewController = require("../controllers/reviewController");
+const { authMiddleware } = require("../middleware/authMiddleware");
+router.use(authMiddleware);
+router.post("/", reviewController.createReview);
+router.get("/", reviewController.getAllReviews);
+router.get("/:restaurantId", reviewController.getAllReviewsById);
+router.post("/:reviewId", reviewController.deleteReviewById);
+module.exports = router;

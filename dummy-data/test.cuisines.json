@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "67ac7d222ee4b070bd485694"
+  },
+  "name": "Indian",
+  "createdAt": {
+    "$date": "2025-02-12T10:51:14.664Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-25T12:32:16.003Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ac7d292ee4b070bd485696"
+  },
+  "name": "Italian",
+  "createdAt": {
+    "$date": "2025-02-12T10:51:21.749Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T10:51:21.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ad9f22af8c34b3272d8cb2"
+  },
+  "name": "Continental",
+  "createdAt": {
+    "$date": "2025-02-13T07:28:34.377Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T07:28:34.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aeda63d3af1523c01ef462"
+  },
+  "name": "Chinese",
+  "createdAt": {
+    "$date": "2025-02-14T05:53:39.745Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T05:53:39.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dba24c024b2035f1d88ec0"
+  },
+  "name": "North Indian / Punjabi",
+  "createdAt": {
+    "$date": "2025-03-20T05:06:20.137Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-20T05:06:20.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dba279024b2035f1d88ec9"
+  },
+  "name": "Mughlai / North Indian",
+  "createdAt": {
+    "$date": "2025-03-20T05:07:05.229Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-20T05:07:05.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dba33c024b2035f1d88f32"
+  },
+  "name": "Maharashtrian / South India",
+  "createdAt": {
+    "$date": "2025-03-20T05:10:20.615Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-20T05:10:20.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dba444024b2035f1d88f95"
+  },
+  "name": "Asian / Chinese",
+  "createdAt": {
+    "$date": "2025-03-20T05:14:44.390Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-20T05:14:44.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dba51f024b2035f1d89005"
+  },
+  "name": "Japanese / Fusion",
+  "createdAt": {
+    "$date": "2025-03-20T05:18:23.049Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-20T05:18:23.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dba648024b2035f1d89134"
+  },
+  "name": "\tContinental / European",
+  "createdAt": {
+    "$date": "2025-03-20T05:23:20.861Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-20T05:23:20.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e6853b4fc3da47168b4845"
+  },
+  "name": "American",
+  "createdAt": {
+    "$date": "2025-03-28T11:17:15.839Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T11:17:15.839Z"
+  },
+  "__v": 0
+}]

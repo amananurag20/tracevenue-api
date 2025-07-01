@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "6698bbc7feb30023587ed7d4"
+  },
+  "username": "ravenfoods",
+  "email": "test@mail.com",
+  "associatedWith": "6698ba28feb30023587ed6b7",
+  "password": "$2b$10$kfkKr/I/.uACEx8z/bIaUeK6HhHGrDZjwP1gkDGAD04UViqfDNYCa",
+  "__v": 0
+}]

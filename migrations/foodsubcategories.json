@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "66ab678cb86799310b558ed5"
+  },
+  "name": "Rice Meals",
+  "category_id": {
+    "$oid": "6699eb29f656a827a62d6bb7"
+  }
+},{
+  "_id": {
+    "$oid": "66ab75400b4d7b83d7cd0104"
+  },
+  "name": "Noodles",
+  "category_id": {
+    "$oid": "6699eb29f656a827a62d6bb7"
+  }
+},{
+  "_id": {
+    "$oid": "66ab75fc0b4d7b83d7cd046d"
+  },
+  "name": "Delicious Prantha",
+  "category_id": {
+    "$oid": "6699eb20f656a827a62d6bb1"
+  }
+},{
+  "_id": {
+    "$oid": "66ac649559fa5fa3e7a6ddf2"
+  },
+  "name": "Milkshakes",
+  "category_id": {
+    "$oid": "6699eb37f656a827a62d6bbf"
+  }
+},{
+  "_id": {
+    "$oid": "66ac662259fa5fa3e7a6e054"
+  },
+  "name": "Mega Thali",
+  "category_id": {
+    "$oid": "6699eb29f656a827a62d6bb7"
+  }
+},{
+  "_id": {
+    "$oid": "66acaa4d12f1c1bfbb948fd9"
+  },
+  "name": "Chinese Food",
+  "category_id": {
+    "$oid": "6699eb45f656a827a62d6bc3"
+  }
+},{
+  "_id": {
+    "$oid": "66acabab12f1c1bfbb94903f"
+  },
+  "name": "Rolls",
+  "category_id": {
+    "$oid": "6699eb45f656a827a62d6bc3"
+  }
+},{
+  "_id": {
+    "$oid": "66acb22712f1c1bfbb949545"
+  },
+  "name": "Light Breakfast",
+  "category_id": {
+    "$oid": "6699eb20f656a827a62d6bb1"
+  }
+},{
+  "_id": {
+    "$oid": "66adf7eefad7740d24c419f8"
+  },
+  "name": "Oven Fresh Pizzas",
+  "category_id": {
+    "$oid": "6699eb45f656a827a62d6bc3"
+  }
+},{
+  "_id": {
+    "$oid": "66d2be1014da61d7d34f8590"
+  },
+  "name": "Soft Drinks",
+  "category_id": {
+    "$oid": "6699eb37f656a827a62d6bbf"
+  }
+},{
+  "_id": {
+    "$oid": "66d2be4a14da61d7d34f8596"
+  },
+  "name": "Tea & Coffee",
+  "category_id": {
+    "$oid": "6699eb37f656a827a62d6bbf"
+  }
+}]
